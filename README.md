@@ -4,6 +4,8 @@ Model Patcher is research into small, targeted weight fixes for local language m
 
 **Status: research only.** No fix, combination, application method, or model variant is currently presented here as validated or available. The existence of a research method or a model card does not establish that it works for a particular model file.
 
+Start with [Model Patcher at a glance](docs/one-pager.md) for the proposed index, evidence requirements, budget and current limits.
+
 ## Proposed path
 
 1. Identify the precise model file and variant you use. A future supported entry should name the exact source, revision, file, hash, and relevant runtime.
