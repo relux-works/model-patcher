@@ -4,6 +4,8 @@
 
 Targeted-edit source details rechecked on 8 November 2026; outcomes remain author-reported.
 
+**9 November 2026 update:** the [research synthesis](research-synthesis.md) documents subsequent catalog, evidence and resource studies. Its [implementation plan](implementation-plan.md) is a proposal. The research-only status above remains current; no model experiment or patch qualification is established by those studies.
+
 **Supported** means the linked primary specification, code or publication supports the stated fact; experimental outcomes remain the authors' reports. **Inferred** marks a proposed design choice or consequence. **Unknown** means the evidence here does not establish the property. Source inspection is not execution or independent reproduction.
 
 ## A concrete targeted-weight example

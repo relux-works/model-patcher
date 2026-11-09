@@ -15,3 +15,5 @@ Model Patcher is research into small, targeted weight fixes for local language m
 There are no application commands yet because no candidate path has been validated. A combination needs its own evidence: results for individual fixes do not predict their joint behavior, and evidence for a pair does not prove that a larger combination works.
 
 See the dated [research status and targeted-edit example](docs/research-status.md). Read about [reuse routes](docs/reuse-routes.md), [combination evidence](docs/combination-evidence.md), or [contributing evidence and corrections](CONTRIBUTING.md).
+
+The [research synthesis](docs/research-synthesis.md) brings together catalog design, evaluation methods and compute constraints. The [implementation plan](docs/implementation-plan.md) proposes a staged path from those findings; it does not announce implemented tools or qualified model fixes.
