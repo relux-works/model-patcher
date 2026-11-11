@@ -18,4 +18,4 @@ There are no application commands yet because no candidate path has been validat
 
 See the dated [research status and targeted-edit example](docs/research-status.md). Read about [reuse routes](docs/reuse-routes.md), [combination evidence](docs/combination-evidence.md), or [contributing evidence and corrections](CONTRIBUTING.md).
 
-The [research synthesis](docs/research-synthesis.md) brings together catalog design, evaluation methods and compute constraints. The [implementation plan](docs/implementation-plan.md) proposes a staged path from those findings; it does not announce implemented tools or qualified model fixes.
+The [research synthesis](docs/research-synthesis.md) brings together catalog design, evaluation methods and compute constraints. The [implementation plan](docs/implementation-plan.md) proposes a staged path from those findings; it does not announce implemented tools or qualified model fixes. [Incremental evaluation](docs/incremental-evaluation.md) records an idea for later: benchmark runs submitted in small shards, so results start early and grow more precise as compute arrives.

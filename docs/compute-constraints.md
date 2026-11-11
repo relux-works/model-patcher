@@ -66,3 +66,5 @@ The 8 November provider study found useful leads, with no award or account-level
 These routes do not establish indefinitely free GPU CI. [GitHub larger runners](https://docs.github.com/en/billing/concepts/product-billing/github-actions) are separately billed, including for public repositories. Academic/startup grants depend on eligibility not established here, and TPU research support would be a separate execution profile. A no-cost CPU record check is a useful first step without implying model quality.
 
 The provider pages for Spaces, ZeroGPU, Modal, Colab and Lightning were inspected again on 9 November for the narrow distinctions above. No account, grant application, billing setting or service was created. A sponsorship proposal would first need an identified applicant, project licensing decision, runnable public demonstration and an explicit request for the intended workload; those are future readiness requirements.
+
+A later idea for spreading complete jobs across small, interruptible runners is recorded in [incremental evaluation](incremental-evaluation.md).
